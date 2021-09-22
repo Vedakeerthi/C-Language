@@ -36,7 +36,7 @@ void twosum :: ts(void)
 
 int main()
 {
-	twosum t;
-	t.getdata();
-	t.ts();
+	twosum tss;
+	tss.getdata();
+	tss.ts();
 }
