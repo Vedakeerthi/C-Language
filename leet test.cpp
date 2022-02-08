@@ -10,7 +10,7 @@ class twosum
 
 void twosum :: getdata(void)
 {
-	cout<<"ENTER THE NUMBER OF ELEMENTS TO BE ENTERED IN AN ARRAY : ";
+    cout<<"ENTER THE NUMBER OF ELEMENTS TO BE ENTERED IN AN ARRAY : ";
     cin>>n;
     for(int i=0; i<n; i++)
     {
